@@ -1,0 +1,79 @@
+{
+  "subreddit": [
+    {
+      "id": 1,
+      "name": "/r/Primer Tema",
+      "description": null,
+      "numberOfPosts": 0
+    },
+    {
+      "name": "/r/s Fisica Cuantica",
+      "description": "dsdsdsd",
+      "id": 2
+    },
+    {
+      "name": "/r/s Fisica Cuantica",
+      "description": "dsdsdsd",
+      "id": 3
+    },
+    {
+      "name": "Fisica Mecanica",
+      "description": "La fisica mecanina es basica",
+      "id": 4
+    },
+    {
+      "name": "Fisica Mecanica",
+      "description": "La fisica mecanina es basica",
+      "id": 5
+    },
+    {
+      "name": "Algebra Relacional ",
+      "description": "dsdsds",
+      "id": 6
+    },
+    {
+      "name": "Algebra Relacional ",
+      "description": "dsdsds",
+      "id": 7
+    },
+    {
+      "name": "Base De Datos",
+      "description": "dsdsds",
+      "id": 8
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "postName": "This is my first post",
+      "url": "http://www.google.com",
+      "description": "This is my first post",
+      "userName": "user",
+      "subredditName": "/r/Primer Tema",
+      "voteCount": 1,
+      "commentCount": 0,
+      "duration": "1 hour ago"
+    },
+    {
+      "postName": "Quinto Post",
+      "url": "https://www.youtube.com/watch?v=LfZ7xdMPytI&t=5946s",
+      "description": "<p>dsdsds</p>",
+      "subredditName": "Base De Datos",
+      "id": 2
+    },
+    {
+      "postName": "Sexto Post",
+      "url": "https://docs.apigee.com/api-platform/troubleshoot/runtime/500-internal-server-error-0#:~:text=The%20HTTP%20status%20code%20500,other%20error%20code%20is%20suitable.",
+      "description": "<p>dsdsds</p>",
+      "subredditName": "Base De Datos",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "text": "First",
+      "userName": "users"
+    }
+  ]
+}

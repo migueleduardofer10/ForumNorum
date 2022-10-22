@@ -5,7 +5,7 @@
   <div class="col-md-11">
     <span class="subreddit-info">
       <span class="subreddit-text"><a class="posturl" routerLink="">{{post.subredditName}}</a></span>
-      <span> . Posted by <a class="username" routerLink="/user/{{post.userName}}">{{post.userName}}</a></span>
+      <span> . Posteado por <a class="username" routerLink="/user/{{post.userName}}">{{post.userName}}</a></span>
       <span> . {{post.duration}}</span>
     </span>
     <hr />
@@ -19,10 +19,10 @@
     <span>
       <a class="btnCommments" role="button">
         <fa-icon [icon]="faComments"></fa-icon>
-        Comments({{post.commentCount}})
+        Comentarios({{post.commentCount}})
       </a>
       <button class="login" (click)="goToPost(post.id)">
-        Read Post
+        Leer Post
       </button>
     </span>
   </div>
